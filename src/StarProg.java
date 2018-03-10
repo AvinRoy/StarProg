@@ -5,7 +5,7 @@ public class StarProg {
 		// TODO Auto-generated method stub
 
 		int i, j;
-		for (i = 0; i < 6; i++) {
+		for (i = 0; i < 7; i++) {
 			for (j = 0; j < i; j++)
 				System.out.print("*");
 			if (i != 0) {
